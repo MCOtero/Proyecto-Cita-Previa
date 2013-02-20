@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saludator</string>
+    <string name="instrucciones">Escribe tu nombre y pulsa el botón</string>
+    <string name="ejemplo_nombre">Tu nombre</string>
+    <string name="boton">Enviar</string>
+    <string name="boton_atras">Volver</string>
+    <string name="titulo_actividad_saludar">Saludando</string>
+</resources>
